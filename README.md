@@ -4,14 +4,12 @@ Factory and index for Barrage clone repos.
 
 Rule: one Barrage repo per source repo. Name is `{source}-barrage`. Skip any source whose name already ends in `-barrage`. Do not copy the whole source tree. Wrap it.
 
-Account has 354 public repos. Creating 350 sibling repos in one pass is not a single-turn job. Wave 1 is pushed. Later waves continue from INVENTORY.md.
-
 Already existed before this factory:
 - https://github.com/fitzyracing1/barrage
 - https://github.com/fitzyracing1/barrage-checker
 - https://github.com/fitzyracing1/temp-schedule-barrage
 
-## Wave 1 (pushed 2026-09-28)
+## Wave 1
 
 | source | barrage clone |
 | --- | --- |
@@ -25,8 +23,28 @@ Already existed before this factory:
 | [cerv](https://github.com/fitzyracing1/cerv) | [cerv-barrage](https://github.com/fitzyracing1/cerv-barrage) |
 | [gold](https://github.com/fitzyracing1/gold) | [gold-barrage](https://github.com/fitzyracing1/gold-barrage) |
 
-Each clone has `listing.barrage`, `SOURCE.md`, and this same README shape.
+## Wave 2 (pushed 2026-09-28)
 
-## Next wave candidates
+| source | barrage clone |
+| --- | --- |
+| [opti-steps](https://github.com/fitzyracing1/opti-steps) | [opti-steps-barrage](https://github.com/fitzyracing1/opti-steps-barrage) |
+| [Unit](https://github.com/fitzyracing1/Unit) | [Unit-barrage](https://github.com/fitzyracing1/Unit-barrage) |
+| [info](https://github.com/fitzyracing1/info) | [info-barrage](https://github.com/fitzyracing1/info-barrage) |
+| [guide](https://github.com/fitzyracing1/guide) | [guide-barrage](https://github.com/fitzyracing1/guide-barrage) |
+| [repo](https://github.com/fitzyracing1/repo) | [repo-barrage](https://github.com/fitzyracing1/repo-barrage) |
+| [Lossless](https://github.com/fitzyracing1/Lossless) | [Lossless-barrage](https://github.com/fitzyracing1/Lossless-barrage) |
+| [compute](https://github.com/fitzyracing1/compute) | [compute-barrage](https://github.com/fitzyracing1/compute-barrage) |
+| [ch](https://github.com/fitzyracing1/ch) | [ch-barrage](https://github.com/fitzyracing1/ch-barrage) |
+| [earthmobile](https://github.com/fitzyracing1/earthmobile) | [earthmobile-barrage](https://github.com/fitzyracing1/earthmobile-barrage) |
+| [fish](https://github.com/fitzyracing1/fish) | [fish-barrage](https://github.com/fitzyracing1/fish-barrage) |
+| [fixerup](https://github.com/fitzyracing1/fixerup) | [fixerup-barrage](https://github.com/fitzyracing1/fixerup-barrage) |
+| [munch](https://github.com/fitzyracing1/munch) | [munch-barrage](https://github.com/fitzyracing1/munch-barrage) |
+| [market-connect](https://github.com/fitzyracing1/market-connect) | [market-connect-barrage](https://github.com/fitzyracing1/market-connect-barrage) |
+| [lift](https://github.com/fitzyracing1/lift) | [lift-barrage](https://github.com/fitzyracing1/lift-barrage) |
+| [focus](https://github.com/fitzyracing1/focus) | [focus-barrage](https://github.com/fitzyracing1/focus-barrage) |
+| [Teslabotspacecruiser](https://github.com/fitzyracing1/Teslabotspacecruiser) | [Teslabotspacecruiser-barrage](https://github.com/fitzyracing1/Teslabotspacecruiser-barrage) |
+| [Hardware-Prototype-Tracker](https://github.com/fitzyracing1/Hardware-Prototype-Tracker) | [Hardware-Prototype-Tracker-barrage](https://github.com/fitzyracing1/Hardware-Prototype-Tracker-barrage) |
 
-opti-steps, Unit, info, guide, repo, Lossless, compute, ch, earthmobile, fish, fixerup, munch, market-connect, lift, focus, Teslabotspacecruiser, Hardware-Prototype-Tracker
+Wave 1 + wave 2 = 26 clone repos plus this index. Hundreds of public sources remain.
+
+Say **wave 3** for the next batch.
