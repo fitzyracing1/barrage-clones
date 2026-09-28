@@ -1,0 +1,48 @@
+# Barrage Clones Factory
+
+> One Barrage repo per source repo. This file is the index, not a pack of every project in one page.
+
+## Purpose
+Keep a factory that wraps each source repository in its own Barrage clone. The source code stays where it is. The clone only explains it.
+
+## How it works (plain English)
+1. List source repos for fitzyracing1.
+2. Skip any name that already ends in -barrage.
+3. Create `{name}-barrage` as a public repo.
+4. Push listing.barrage, SOURCE.md, and a short README.
+5. Record the pair in this index.
+
+## Key ideas
+- Source repo (the real code)
+- Barrage clone (the everyday-language wrap)
+- Wave (a batch of clones, because hundreds cannot ship in one pass)
+
+## The actual code
+```
+for repo in sources:
+    if repo.name.endswith("-barrage"): continue
+    create repo.name + "-barrage"
+    push listing.barrage
+    record pair
+```
+
+## Line-by-line translation
+1. for repo in sources → “walk the account repos”
+2. skip -barrage → “do not wrap a wrap”
+3. create name-barrage → “make the sibling repo”
+4. push listing.barrage → “put the human listing on main”
+5. record pair → “write source and clone into the index”
+
+## Decisions the program makes
+- If the name already ends in -barrage → skip
+- If the clone already exists → update files, do not create a third copy
+- If the batch is large → ship a wave and leave the rest queued
+
+## What a person would notice
+Separate GitHub pages, one wrap per project, instead of one giant pack.
+
+## Current status
+Wave 1 pushed. Hundreds of public sources remain queued.
+
+## Next possible steps
+Say "wave 2" to push the next batch of clone repos.
