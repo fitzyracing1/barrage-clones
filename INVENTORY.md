@@ -1,7 +1,7 @@
 # Inventory
 
 owner: fitzyracing1
-wave: 20
-clone_count_after_wave_20: 202
+wave: 21
+clone_count_after_wave_21: 212
 
-queued_wave_21_note: remaining public sources still unwrapped after twenty waves; skip copies unless asked.
+queued_wave_22_note: remaining June tool shelves (dotnet, conda, nvm, downloads, pictures, local, clones, servicehub, parallels, music).
