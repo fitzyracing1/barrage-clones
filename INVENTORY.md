@@ -1,14 +1,7 @@
 # Inventory
 
 owner: fitzyracing1
-wave: 6
-clone_count_after_wave_6: 66
+wave: 7
+clone_count_after_wave_7: 73
 
-queued_wave_7_examples:
-- skill-female-transformer
-- skill-bmd-ai-agents
-- skill-rest-api-sandbox
-- public-ireland
-- public
-- ai-everything
-- everything-ai
+queued_wave_8_note: next public unwrapped sources outside the skill-* and everything-ai clusters (profile snapshot, app clones, older hardware/crypto repos).
