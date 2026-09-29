@@ -1,7 +1,7 @@
 # Inventory
 
 owner: fitzyracing1
-wave: 7
-clone_count_after_wave_7: 73
+wave: 8
+clone_count_after_wave_8: 83
 
-queued_wave_8_note: next public unwrapped sources outside the skill-* and everything-ai clusters (profile snapshot, app clones, older hardware/crypto repos).
+queued_wave_9_note: remaining claude-* archives, public-apis-explorer CLI, older hardware/crypto/app clones.
