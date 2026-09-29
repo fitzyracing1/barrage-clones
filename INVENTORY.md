@@ -1,7 +1,7 @@
 # Inventory
 
 owner: fitzyracing1
-wave: 23
-clone_count_after_wave_23: 232
+wave: 24
+clone_count_after_wave_24: 242
 
-queued_wave_24_note: remaining June shelves (swiftpm, venvs, ssh, zsh_sessions, venv, vscode-shared, documents, Git0.1.0).
+queued_wave_25_note: remaining public sources still unwrapped; skip copies unless asked.
