@@ -1,7 +1,7 @@
 # Inventory
 
 owner: fitzyracing1
-wave: 12
-clone_count_after_wave_12: 122
+wave: 13
+clone_count_after_wave_13: 132
 
-queued_wave_13_note: more 2026-04-27 public names (drawer, 1t, pixel, snafu, belarus-freedom, grok-1-work, mini_os-copy skipped unless asked) then later hardware/crypto/app clones.
+queued_wave_14_note: remaining 2026-04-27 public names and later hardware/crypto/app clones. Copies (*-copy, surecookie variants) skipped unless asked.
