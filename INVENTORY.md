@@ -1,7 +1,7 @@
 # Inventory
 
 owner: fitzyracing1
-wave: 9
-clone_count_after_wave_9: 93
+wave: 10
+clone_count_after_wave_10: 102
 
-queued_wave_10_note: remaining claude-* (earthenware-computer, code, circles, bio-chem, asset-ledger) then older hardware/crypto/app clones.
+queued_wave_11_note: older hardware/crypto/app clones still public and unwrapped.
