@@ -1,7 +1,7 @@
 # Inventory
 
 owner: fitzyracing1
-wave: 11
-clone_count_after_wave_11: 112
+wave: 12
+clone_count_after_wave_12: 122
 
-queued_wave_12_note: more 2026-04-27 public short-names (code, nightshift0.3.0, work, bci_interface, quantum-terminal) then remaining hardware/crypto/app clones.
+queued_wave_13_note: more 2026-04-27 public names (drawer, 1t, pixel, snafu, belarus-freedom, grok-1-work, mini_os-copy skipped unless asked) then later hardware/crypto/app clones.
